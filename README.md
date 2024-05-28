@@ -1,4 +1,6 @@
 # Kunitachi_72600HP
-都立国立高校72期600のホームページのソースコードです。
+都立国立高校72期600のホームページです。
 
-[こちら](https://n-keisho.github.io/Kunitachi_72600HP/)から実際のページを見ることができます。
+GitHubPageを利用してデプロイしています．
+
+Link：https://n-keisho.github.io/Kunitachi_72600HP/
